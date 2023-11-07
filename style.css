@@ -1,0 +1,80 @@
+body {
+    background-size: cover;
+    padding-top: 80px;
+  }
+
+  .container {
+    background-color: rgb(39, 39, 39) ;
+    opacity: 0.8;
+    height: 850px;
+    width: 1200px;
+    border-radius: 2%;
+    margin: auto;
+}
+
+.logo {
+    width: 250px;
+    height: 110px;
+  }
+
+  h1 {
+    color: rgb(74, 214, 74);
+    font-size: 50px;
+  }
+
+  header, nav {
+    text-align: center;
+  }
+
+  nav {
+    background-color: rgb(74, 214, 74);
+    border: 2px solid black;
+    height: 25px;
+}
+
+.titolo, .via, .icona, .carica{
+    color: white;
+  }
+
+  .titolo {
+    font-size: 30px;
+   }
+ 
+.via, .carica {
+     font-size: 20px;
+}
+
+main {
+    padding: 30px;
+   }
+
+.arancione{
+    background-color: orange;
+    height: 30px;
+    width: 30% ;
+    position: left;
+    border-radius: 5%;
+    
+   }
+
+.verde{
+    background-color: green;
+    height: 30px;
+    width: 70% ;
+    position: left;
+    border-radius: 5%;
+    
+   }
+
+.rosso{
+    background-color: red;
+    height: 30px;
+    width: 15% ;
+    position: left;
+    border-radius: 5%;
+   }
+
+.Testo1, .Testo2, .Testo3{
+    padding: 15px;
+    
+   }
